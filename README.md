@@ -9,6 +9,7 @@ EC2 Container Service cluster.
 This example utilizes AWS information that you wouldn't really want public. You'll need to 
 configure a few CircleCI environment variables before the deploy script will work:
 
+
 ```
 AWS_ACCOUNT_ID
 AWS_ACCESS_KEY_ID
